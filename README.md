@@ -22,7 +22,7 @@ Me pareció interesante la forma en que toma una historia que podría perfectame
 
 También destacaría la combinación de texto con los elementos interactivos, me gustó mucho el que se pudiera seleccionar una "personita" y poder conocer los datos asociados. Estos recursos hacen que la experiencia sea más dinámica y permiten que el lector participe en el descubrimiento de la información.
 
-](image-1.png)
+![alt text](image-3.png)
 Antes de seleccionar la personita***
 ![alt text](image-2.png)
 Personita seleccionada***
