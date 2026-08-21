@@ -12,6 +12,8 @@
 
 Se nos presentan dos protagonistas: Henry y Mary, una pareja que permite introducir el tema de manera cercana. A medida que avanza, esta historia se va conectando con datos reales de investigaciones sobre relaciones. La webstory utiliza información de más de 1.000 personas encuestadas por investigadores de Stanford en distintos momentos, lo que permite observar cambios en sus relaciones antes, durante y después de la pandemia.
 
+![alt text](image.png)
+
 Además, aborda temas como la satisfacción en las relaciones, las separaciones y las distintas formas en que las personas conocen a sus parejas.
 
 ## Me pareció interesante porque...
@@ -20,6 +22,10 @@ Me pareció interesante la forma en que toma una historia que podría perfectame
 
 También destacaría la combinación de texto con los elementos interactivos, me gustó mucho el que se pudiera seleccionar una "personita" y poder conocer los datos asociados. Estos recursos hacen que la experiencia sea más dinámica y permiten que el lector participe en el descubrimiento de la información.
 
+](image-1.png)
+Antes de seleccionar la personita***
+![alt text](image-2.png)
+Personita seleccionada***
 ## Sobre la narrativa...
 
 La webstory utiliza una estructura basada en el desplazamiento hacia abajo, tipo scroll, por lo que el avance del lector también significa un avance de la historia. Primero presenta a los protagonistas y su relación, para después incorporar el contexto de la pandemia y ampliar la historia hacia datos duros.
